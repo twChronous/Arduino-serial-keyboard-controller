@@ -1,7 +1,7 @@
 
 # Arduino serial keyboard controller
 
-Esse projeto usa um arduino para controlar algums atalhos e teclas do teclado
+Esse projeto usa um arduino para controlar alguns atalhos e teclas do teclado
 
 ## Referência
 
